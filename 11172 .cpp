@@ -6,7 +6,7 @@ int main()
 {
 	int t;
 	cin>>t;
-	while(t--)
+	while(t--)//case
 	{
 		int a,b;
 		cin>>a>>b;
